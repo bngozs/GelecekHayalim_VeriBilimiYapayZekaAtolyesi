@@ -1,2 +1,28 @@
-# GelecekHayalimProgramı_VeriBilimiYapayZekaAtolyesi
+# Gelecek Hayalim Programı - Veri Bilimi & Yapay Zeka Atolyesi
 Gelecek Hayalim Programı kapsamında Veri Bilimi &amp; Yapay Zeka Atölyesi'nde geliştirilen proje ve uygulamalar portfolyosu
+
+## 👨‍💻 Program ve Eğitim Hakkında
+
+**Gelecek Hayalim Programı**, Ford Otosan, Vehbi Koç Vakfı  ve Mikado Impact iş birliğiyle yürütülen STEM alanında kadınların güçlenmesini hedefleyen bu kapsamlı bir programdır.
+
+Bu programın bir parçası olarak, **Patika.dev** ve **Cohorts** platformları üzerinden yoğun bir Veri Bilimi & Yapay Zeka eğitimi alma fırsatı buldum. Bu depodaki projeler, bu eğitim sürecinin somut çıktılarıdır.
+
+## 🚀 Atölye İçeriği ve Projeler
+
+Her hafta işlenen konulara ve tamamlanan ödevlere ait Jupyter Notebook dosyaları burada yer almaktadır.
+
+### Hafta 1: Python Temelleri ve Veri Tipleri
+* **İşlenen Konular:** `int`, `str`, `float` veri tipleri, `input()` fonksiyonu, operatörler, string metodları (`.upper()`, `.split()`) ve "Slicing" (`[::2]`).
+* **Proje Dosyası:** [Hafta 1 Ödevleri - Python Temelleri](VeriBilimiYapayZekaAtolyesi_1.ipynb)
+
+### Hafta 2: ...
+* **İşlenen Konular:** ...
+* **Proje Dosyası:** ...
+
+---
+
+### 🛠️ Kullanılan Teknolojiler ve Platformlar
+* **Dil:** Python
+* **Araçlar:** Jupyter Notebook, Anaconda
+* **Platformlar:** GitHub, Patika.dev, Cohorts
+* **Program:** Gelecek Hayalim
