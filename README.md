@@ -5,7 +5,7 @@ Gelecek Hayalim Programı kapsamında Veri Bilimi &amp; Yapay Zeka Atölyesi'nde
 
 **Gelecek Hayalim Programı**, Ford Otosan, Vehbi Koç Vakfı  ve Mikado Impact iş birliğiyle yürütülen STEM alanında kadınların güçlenmesini hedefleyen bu kapsamlı bir programdır.
 
-Bu programın bir parçası olarak, **Patika.dev** ve **Cohorts** platformları üzerinden yoğun bir Veri Bilimi & Yapay Zeka eğitimi alma fırsatı buldum. Bu depodaki projeler, bu eğitim sürecinin somut çıktılarıdır.
+Bu programın bir parçası olarak, **Patika.dev** ve **Cohorts** platformları üzerinden Veri Bilimi & Yapay Zeka eğitimi alma fırsatı buldum. Bu depodaki projeler, bu eğitim sürecinin somut çıktılarıdır.
 
 ## 🚀 Atölye İçeriği ve Projeler
 
