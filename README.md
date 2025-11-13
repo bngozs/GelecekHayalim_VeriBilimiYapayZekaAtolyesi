@@ -15,7 +15,7 @@ Her hafta işlenen konulara ve tamamlanan ödevlere ait Jupyter Notebook dosyala
 * **İşlenen Konular:** `int`, `str`, `float` veri tipleri, `input()` fonksiyonu, operatörler, string metodları (`.upper()`, `.split()`) ve "Slicing" (`[::2]`).
 * **Proje Dosyası:** [Hafta 1 Ödevleri - Python Temelleri](VeriBilimiYapayZekaAtolyesi_1.ipynb)
 
-### Hafta 1.2: ...
+### Hafta 1.2: Döngüler
 * **İşlenen Konular:** `if`, `elif`, `else` ile karar yapıları, `while` döngüsü, `len()` fonksiyonu, `break` komutu ve sayaç (counter) mantığı.
 * **Proje Dosyası:** [Hafta 1 Ödevleri - Döngüler ](VeriBilimiYapayZekaAtolyesi_2.ipynb)
 
