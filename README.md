@@ -1,4 +1,4 @@
-# Gelecek Hayalim Programı - Veri Bilimi & Yapay Zeka Atolyesi
+# Gelecek Hayalim Programı - Veri Bilimi & Yapay Zeka Atölyesi
 Gelecek Hayalim Programı kapsamında Veri Bilimi &amp; Yapay Zeka Atölyesi'nde geliştirilen proje ve uygulamalar portfolyosu
 
 ## 👨‍💻 Program ve Eğitim Hakkında
