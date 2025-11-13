@@ -19,6 +19,10 @@ Her hafta işlenen konulara ve tamamlanan ödevlere ait Jupyter Notebook dosyala
 * **İşlenen Konular:** `if`, `elif`, `else` ile karar yapıları, `while` döngüsü, `len()` fonksiyonu, `break` komutu ve sayaç (counter) mantığı.
 * **Proje Dosyası:** [Hafta 1 Ödevleri - Döngüler ](VeriBilimiYapayZekaAtolyesi_2.ipynb)
 
+### Hafta 2.1: Fonksiyonlar 
+* **İşlenen Konular:** Fonksiyon tanımlama (`def`), `return` ile `print` farkı, parametreler, `for` döngüsü ile fonksiyon birleştirme ve fonksiyon içinde fonksiyon çağırma.
+* **Proje Dosyası:** [Hafta 3 Ödevleri - Fonksiyonlar](VeriBilimiYapayZekaAtolyesi_3.ipynb)
+
 ---
 
 ### 🛠️ Kullanılan Teknolojiler ve Platformlar
