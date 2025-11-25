@@ -21,11 +21,16 @@ Her hafta işlenen konulara ve tamamlanan ödevlere ait Jupyter Notebook dosyala
 
 ### Hafta 2.1: Fonksiyonlar 
 * **İşlenen Konular:** Fonksiyon tanımlama (`def`), `return` ile `print` farkı, parametreler, `for` döngüsü ile fonksiyon birleştirme ve fonksiyon içinde fonksiyon çağırma.
-* **Proje Dosyası:** [Hafta 3 Ödevleri - Fonksiyonlar](VeriBilimiYapayZekaAtolyesi_3.ipynb)
+* **Proje Dosyası:** [Hafta 2 Ödevleri - Fonksiyonlar](VeriBilimiYapayZekaAtolyesi_3.ipynb)
 
 ### Hafta 2.2: Listeler (`list`) ve Metodları
 * **İşlenen Konular:** Liste veri yapısı, indexleme, slicing, `.append()`, `.pop()`, `.sort()` gibi liste metodları, `for` döngüsü ile listelerde gezinme ve `enumerate()` kullanımı.
-* **Proje Dosyası:** [Hafta 4 Ödevleri - Liste İşlemleri](VeriBilimiYapayZekaAtolyesi_4.ipynb)
+* **Proje Dosyası:** [Hafta 2 Ödevleri - Liste İşlemleri](VeriBilimiYapayZekaAtolyesi_4.ipynb)
+
+### Hafta 3.1: Tuple, Set ve Dictionary
+* **İşlenen Konular:** tuple (değiştirilemez yapı), set küme işlemleri (union, intersection, difference), dict (sözlük) yapısı, .items() ve .get() metodları, iç içe sözlükler (Nested Dictionaries) ve Öğrenci Not Takip Sistemi projesi.
+* **Proje Dosyası:** [Hafta 3 Ödevleri - Tuple, Set ve Dictionary İşlemleri](VeriBilimiYapayZekaAtolyesi_5.ipynb)
+
 
 ---
 
