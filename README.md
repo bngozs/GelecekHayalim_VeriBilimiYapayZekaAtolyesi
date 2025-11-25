@@ -31,6 +31,9 @@ Her hafta işlenen konulara ve tamamlanan ödevlere ait Jupyter Notebook dosyala
 * **İşlenen Konular:** tuple (değiştirilemez yapı), set küme işlemleri (union, intersection, difference), dict (sözlük) yapısı, .items() ve .get() metodları, iç içe sözlükler (Nested Dictionaries) ve Öğrenci Not Takip Sistemi projesi.
 * **Proje Dosyası:** [Hafta 3 Ödevleri - Tuple, Set ve Dictionary İşlemleri](VeriBilimiYapayZekaAtolyesi_5.ipynb)
 
+### Hafta 3.2: NumPy Kütüphanesi
+* **İşlenen Konular:** `numpy` kütüphanesi, `array` (dizi) oluşturma, boyut kavramı (`ndim`, `shape`), `indexing` ve `slicing`, matris birleştirme (`concatenate`), `zeros`, `ones`, `arange` gibi dizi üreticiler.
+* **Proje Dosyası:** [Hafta 6 Ödevleri - NumPy Temelleri](VeriBilimiYapayZekaAtolyesi_6.ipynb)
 
 ---
 
